@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DavidBjorelind.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/DavidBjorelind.github.io/static/js/main.909155c9.chunk.js",
+    "main.js.map": "/DavidBjorelind.github.io/static/js/main.909155c9.chunk.js.map",
+    "runtime-main.js": "/DavidBjorelind.github.io/static/js/runtime-main.72efe680.js",
+    "runtime-main.js.map": "/DavidBjorelind.github.io/static/js/runtime-main.72efe680.js.map",
+    "static/js/2.11297dca.chunk.js": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js",
+    "static/js/2.11297dca.chunk.js.map": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js.map",
+    "static/js/3.a08610cc.chunk.js": "/DavidBjorelind.github.io/static/js/3.a08610cc.chunk.js",
+    "static/js/3.a08610cc.chunk.js.map": "/DavidBjorelind.github.io/static/js/3.a08610cc.chunk.js.map",
+    "index.html": "/DavidBjorelind.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/DavidBjorelind.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.11297dca.chunk.js.LICENSE.txt": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/DavidBjorelind.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72efe680.js",
+    "static/js/2.11297dca.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.909155c9.chunk.js"
+  ]
+}
