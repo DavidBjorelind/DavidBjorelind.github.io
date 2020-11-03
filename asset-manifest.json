@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DavidBjorelind.github.io/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/DavidBjorelind.github.io/static/js/main.909155c9.chunk.js",
-    "main.js.map": "/DavidBjorelind.github.io/static/js/main.909155c9.chunk.js.map",
-    "runtime-main.js": "/DavidBjorelind.github.io/static/js/runtime-main.72efe680.js",
-    "runtime-main.js.map": "/DavidBjorelind.github.io/static/js/runtime-main.72efe680.js.map",
-    "static/js/2.11297dca.chunk.js": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js",
-    "static/js/2.11297dca.chunk.js.map": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js.map",
-    "static/js/3.a08610cc.chunk.js": "/DavidBjorelind.github.io/static/js/3.a08610cc.chunk.js",
-    "static/js/3.a08610cc.chunk.js.map": "/DavidBjorelind.github.io/static/js/3.a08610cc.chunk.js.map",
-    "index.html": "/DavidBjorelind.github.io/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/DavidBjorelind.github.io/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.11297dca.chunk.js.LICENSE.txt": "/DavidBjorelind.github.io/static/js/2.11297dca.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/DavidBjorelind.github.io/static/media/logo.103b5fa1.svg"
+    "main.css": "/bjorelind.se/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/bjorelind.se/static/js/main.c4d17fa5.chunk.js",
+    "main.js.map": "/bjorelind.se/static/js/main.c4d17fa5.chunk.js.map",
+    "runtime-main.js": "/bjorelind.se/static/js/runtime-main.8fb748c8.js",
+    "runtime-main.js.map": "/bjorelind.se/static/js/runtime-main.8fb748c8.js.map",
+    "static/js/2.4e9c2493.chunk.js": "/bjorelind.se/static/js/2.4e9c2493.chunk.js",
+    "static/js/2.4e9c2493.chunk.js.map": "/bjorelind.se/static/js/2.4e9c2493.chunk.js.map",
+    "static/js/3.ec659f0e.chunk.js": "/bjorelind.se/static/js/3.ec659f0e.chunk.js",
+    "static/js/3.ec659f0e.chunk.js.map": "/bjorelind.se/static/js/3.ec659f0e.chunk.js.map",
+    "index.html": "/bjorelind.se/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/bjorelind.se/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4e9c2493.chunk.js.LICENSE.txt": "/bjorelind.se/static/js/2.4e9c2493.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/bjorelind.se/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.72efe680.js",
-    "static/js/2.11297dca.chunk.js",
+    "static/js/runtime-main.8fb748c8.js",
+    "static/js/2.4e9c2493.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.909155c9.chunk.js"
+    "static/js/main.c4d17fa5.chunk.js"
   ]
 }
