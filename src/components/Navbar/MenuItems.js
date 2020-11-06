@@ -1,22 +1,22 @@
 export const MenuItems = [
     {
         title: 'Learn more about me',
-        url: 'about',
+        url: '/#/about',
         cName: 'nav-links'
     },
     {
         title: 'Machine Learning',
-        url: 'ML',
+        url: '/#/ML',
         cName: 'nav-links'
     },
     {
         title: 'Games',
-        url: 'game',
+        url: '/#/game',
         cName: 'nav-links'
     },
     {
         title: 'React',
-        url: 'react',
+        url: '/#/react',
         cName: 'nav-links'
     }
 ]

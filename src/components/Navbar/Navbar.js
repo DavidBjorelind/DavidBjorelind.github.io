@@ -11,7 +11,7 @@ class Navbar extends React.Component {
         return(
             <nav className="NavbarItems">
                 <h1>
-                    <a className="navbar-logo" href='/'> 
+                    <a className="navbar-logo" href='/#/'> 
                         David Björelind
                     </a>
                 </h1>
