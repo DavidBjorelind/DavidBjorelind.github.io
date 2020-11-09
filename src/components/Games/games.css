@@ -10,6 +10,7 @@
   
   .status {
     margin-bottom: 10px;
+    color: white;
   }
   
   .square {
@@ -36,6 +37,7 @@
   }
   
   .game {
+    justify-content: center;
     display: flex;
     flex-direction: row;
   }

@@ -1,0 +1,5 @@
+.icons:hover {
+    background-color: rgb(62,135,207);
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
