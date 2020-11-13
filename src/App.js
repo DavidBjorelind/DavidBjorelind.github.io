@@ -3,6 +3,7 @@ import Footer from './components/Footer/Footer';
 import About from './components/About/About';
 import React from './components/React/react';
 import Game from './components/Games/games';
+import ML from './components/Machine_Learning/ML';
 
 import './App.css';
 import {Switch, Route } from 'react-router-dom';
@@ -26,6 +27,7 @@ function App() {
             <Route path="/" exact component={About}/>
             <Route path="/react" component={React}/>
             <Route path="/game" component={Game}/>
+            <Route path="/ML" component={ML}/>
 
             <Footer />
           </Wrapper>

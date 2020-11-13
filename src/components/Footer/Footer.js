@@ -66,7 +66,7 @@ class Footer extends React.Component {
                     </Column>
                     <Column>
 
-                        <Link href="https://www.linkedin.com/in/davidbjorelind/" > <i class="fab fa-linkedin"></i> Check out my profile at Linkedin </Link>
+                        <Link href="https://www.linkedin.com/in/davidbjorelind/" > <i class="fab fa-linkedin"></i> Check out my Linkedin </Link>
 
                     </Column>
 

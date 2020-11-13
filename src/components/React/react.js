@@ -5,10 +5,13 @@ function React() {
   return (
     <div className="React">
       <header className="React-header">
-        <img src={logo} className="React-logo" alt="logo" />
+
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This website was created using Node.js and React.js
         </p>
+
+        <img src={logo} className="React-logo" alt="logo" />
+
         <a
           className="React-link"
           href="https://reactjs.org"
