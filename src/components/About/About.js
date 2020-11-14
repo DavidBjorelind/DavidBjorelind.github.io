@@ -18,20 +18,20 @@ class About extends React.Component {
                     - Industrial Engineering & Management student based in Linköping
                 </Title>
 
-                <h2>Education</h2>
+                <Topic>Education</Topic>
                 <hr></hr>
-                <h3>Linköping institute of Technology</h3>
+                <h3>Linköping institute of Technology, LiTH, Sweden</h3>
                 <ul>
                     <List>Industrial Engineering & Management</List>
                     <List>M.Sc in Machine Learning & Finance</List>
 
                 </ul>
-                <h3>City University of Hong kong</h3>
+                <h3>City University of Hong kong, CityU, China</h3>
                 <ul>
-                    <List>Computer Science</List>
+                    <List>Exchange year: Courses in Computer Science</List>
                 </ul>
 
-                <h2>Work Experience</h2>
+                <Topic>Work Experience</Topic>
                 <hr></hr>
 
                 <h3>Quality Assurance Intern, Upsales Technology AB</h3>
@@ -52,27 +52,29 @@ class About extends React.Component {
                     </List>
                 </ul>
 
-                <h2>Leadership & Extra-curricular Activities</h2>
+                <Topic>Leadership & Extra-curricular Activities</Topic>
                 <hr></hr>
 
                 <h3>Teaching assistant</h3>
                 <ul>
                     <List>
-                    
+                    Teacher, lab & seminar leader in the courses Economic Analysis: Economic Theory and Economic Analysis: Decision- and Financial Methodology.
+                    Prepared and carried out digital classes during the pandemic. Constructed and corrected exam questions for aforementioned courses.
                     </List>
                 </ul>
 
                 <h3>Project Manager of London Banking Week</h3>
                 <ul>
                     <List>
-                    
+                    Planned and executed a four-day student trip to London for 30 student.
+                    Responsible for communication with 8 investment banks and financial institutions
                     </List>
                 </ul>
 
                 <h3>President of the Athletic Club</h3>
                 <ul>
                     <List>
-                    
+                    Leading a team of 5 people, planning sports and health activities for over 1000 members. The team averaged 1.5 events per week throughout the school year.
                     </List>
                 </ul>
 
@@ -98,7 +100,7 @@ export default About
 const Wrapper = styled.div`
 
     color: white;
-    width: 50%;
+    width: 55%;
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
@@ -156,13 +158,12 @@ const Link = styled.a`
         transition: 200ms ease-in;
     }
 `
-const Text = styled.b`
-    max-width: 600px;
-    border-color: white;
-
-`
 const List = styled.li`
     list-style: none;
     font-size: 15px;
     font-style: italic;
+`
+
+const Topic = styled.h2`
+    text-align: center;
 `
