@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1e61e860.chunk.css",
-    "main.js": "/static/js/main.14a165f6.chunk.js",
-    "main.js.map": "/static/js/main.14a165f6.chunk.js.map",
+    "main.js": "/static/js/main.a5fb2dea.chunk.js",
+    "main.js.map": "/static/js/main.a5fb2dea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d4f18868.js",
     "runtime-main.js.map": "/static/js/runtime-main.d4f18868.js.map",
     "static/js/2.1e613c74.chunk.js": "/static/js/2.1e613c74.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.1e61e860.chunk.css.map": "/static/css/main.1e61e860.chunk.css.map",
     "static/js/2.1e613c74.chunk.js.LICENSE.txt": "/static/js/2.1e613c74.chunk.js.LICENSE.txt",
-    "static/media/cv.a2558be6.pdf": "/static/media/cv.a2558be6.pdf",
+    "static/media/cv.faa80f67.pdf": "/static/media/cv.faa80f67.pdf",
     "static/media/face.7ac75156.JPG": "/static/media/face.7ac75156.JPG",
     "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
     "static/media/thesis.2f4593c6.pdf": "/static/media/thesis.2f4593c6.pdf"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d4f18868.js",
     "static/js/2.1e613c74.chunk.js",
     "static/css/main.1e61e860.chunk.css",
-    "static/js/main.14a165f6.chunk.js"
+    "static/js/main.a5fb2dea.chunk.js"
   ]
 }
